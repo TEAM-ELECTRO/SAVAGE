@@ -1,0 +1,3 @@
+files:
+  - source: SavageRobot/localization/en.yaml 
+    translation: /**/SavageRobot/localization/%locale_with_underscore%.yaml
